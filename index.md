@@ -8,4 +8,4 @@
 
 [02.15.2023 - 02.22.2023 Lab Report: CSE Labs Done Quick](https://jewelle-tatad.github.io/cse15l-lab-reports/0215222023labreport.html)
 
-
+[03.01.2023 - 03.08.2023 CLDQ bash script](https://jewelle-tatad.github.io/cse15l-lab-reports/0301082023labreport.html)
